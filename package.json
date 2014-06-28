@@ -1,0 +1,26 @@
+{
+  "name": "mailgun",
+  "version": "0.0.0",
+  "description": "Mailgun Cloud Module for Parse",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/flovilmart/parse-mailgun.git"
+  },
+  "keywords": [
+    "parse",
+    "mailgun"
+  ],
+  "author": "Florent Vilmart",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flovilmart/parse-mailgun/issues"
+  },
+  "homepage": "https://github.com/flovilmart/parse-mailgun",
+  "dependencies": {
+    "parse-cloud-additions": "0.0.2"
+  }
+}
