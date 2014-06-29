@@ -1,6 +1,6 @@
 {
   "name": "mailgun",
-  "version": "0.0.1",
+  "version": "0.0.1-parse",
   "description": "Mailgun Cloud Module for Parse",
   "main": "index.js",
   "scripts": {
