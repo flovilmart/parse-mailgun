@@ -1,6 +1,6 @@
 {
   "name": "mailgun",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Mailgun Cloud Module for Parse",
   "main": "index.js",
   "scripts": {
@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/flovilmart/parse-mailgun",
   "dependencies": {
-    "parse-cloud-additions": "0.0.2"
+    "parse-cloud": "~0.0.2"
   }
 }
