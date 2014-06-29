@@ -1,4 +1,4 @@
-var Parse = require("parse-cloud-additions").Parse;
+var Parse = require("parse-cloud").Parse;
 var Buffer = require('buffer').Buffer;
 var Mailgun = {
 	sendEmail: function(params, options){

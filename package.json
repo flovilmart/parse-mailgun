@@ -21,6 +21,6 @@
   },
   "homepage": "https://github.com/flovilmart/parse-mailgun",
   "dependencies": {
-    "parse-cloud": "~0.0.2"
+    "parse-cloud": "~0.0.3"
   }
 }
