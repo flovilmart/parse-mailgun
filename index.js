@@ -13,7 +13,7 @@ var Mailgun = {
 		}
 
 		var errorCallback = function(){
-			f (options && options.error) {
+			if (options && options.error) {
 				options.error(httpResponse);
 			}
 			p.reject(httpResponse);
